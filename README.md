@@ -1,5 +1,7 @@
 # Stock_Analysis
 
+Use VBA to write a code Which will help in performing automated analysis on the stock options
+
 ## Overview
 
 Steve's parent has asked him to invest their money in stock. They wanted to invest in DAQO stocks but initial analysis showed that these stocks might not be a good investment. 
